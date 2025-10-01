@@ -1,13 +1,4 @@
 
-
-* **`context.py`** → Demonstrates using agent context (`UserInfo`) and a custom tool `fetch_user_purchase`.
-* **`single_agent.py`** → Shows a simple agent generating a poem (basic use case).
-* **`tool2.py`** → Demonstrates using a tool (`fetch_weather`) for weather queries.
-
-Here’s a **README.md** for your project **`open-ai-agent-sdk`**:
-
----
-
 # Open AI Agent SDK – Demo Project
 
 This repository demonstrates how to build AI-powered agents using the **OpenAI SDK**, custom tools, and contextual data.
